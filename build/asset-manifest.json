@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Modern-Abstractions/static/css/main.c2cef99b.chunk.css",
-    "main.js": "/Modern-Abstractions/static/js/main.d6ceff14.chunk.js",
-    "main.js.map": "/Modern-Abstractions/static/js/main.d6ceff14.chunk.js.map",
+    "main.js": "/Modern-Abstractions/static/js/main.b8a1adbe.chunk.js",
+    "main.js.map": "/Modern-Abstractions/static/js/main.b8a1adbe.chunk.js.map",
     "runtime-main.js": "/Modern-Abstractions/static/js/runtime-main.c4804bb4.js",
     "runtime-main.js.map": "/Modern-Abstractions/static/js/runtime-main.c4804bb4.js.map",
-    "static/js/2.666afa80.chunk.js": "/Modern-Abstractions/static/js/2.666afa80.chunk.js",
-    "static/js/2.666afa80.chunk.js.map": "/Modern-Abstractions/static/js/2.666afa80.chunk.js.map",
+    "static/js/2.c12fda40.chunk.js": "/Modern-Abstractions/static/js/2.c12fda40.chunk.js",
+    "static/js/2.c12fda40.chunk.js.map": "/Modern-Abstractions/static/js/2.c12fda40.chunk.js.map",
     "static/js/3.56c16d5f.chunk.js": "/Modern-Abstractions/static/js/3.56c16d5f.chunk.js",
     "static/js/3.56c16d5f.chunk.js.map": "/Modern-Abstractions/static/js/3.56c16d5f.chunk.js.map",
     "index.html": "/Modern-Abstractions/index.html",
     "static/css/main.c2cef99b.chunk.css.map": "/Modern-Abstractions/static/css/main.c2cef99b.chunk.css.map",
-    "static/js/2.666afa80.chunk.js.LICENSE.txt": "/Modern-Abstractions/static/js/2.666afa80.chunk.js.LICENSE.txt",
+    "static/js/2.c12fda40.chunk.js.LICENSE.txt": "/Modern-Abstractions/static/js/2.c12fda40.chunk.js.LICENSE.txt",
     "static/media/reset.css": "/Modern-Abstractions/static/media/font.617a0a92.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.c4804bb4.js",
-    "static/js/2.666afa80.chunk.js",
+    "static/js/2.c12fda40.chunk.js",
     "static/css/main.c2cef99b.chunk.css",
-    "static/js/main.d6ceff14.chunk.js"
+    "static/js/main.b8a1adbe.chunk.js"
   ]
 }
