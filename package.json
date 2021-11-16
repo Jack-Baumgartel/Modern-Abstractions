@@ -2,7 +2,7 @@
   "name": "Modern-Abstractions",
   "version": "1.0.0",
   "description": "Homepage for the Modern Abstractions NFT collection.",
-  "homepage": "http://Jack-Baumgartel.github.io/Modern-Abstractions",
+  "homepage": "http://jack-baumgartel.github.io/Modern-Abstractions/",
   "private": true,
   "dependencies": {
     "react": "^17.0.2",
