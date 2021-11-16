@@ -15,9 +15,9 @@
     "static/media/reset.css": "/Modern-Abstractions/static/media/font.617a0a92.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.c4804bb4.js",
-    "static/js/2.c12fda40.chunk.js",
-    "static/css/main.c2cef99b.chunk.css",
-    "static/js/main.b8a1adbe.chunk.js"
+    "Modern-Abstractions/static/js/runtime-main.c4804bb4.js",
+    "Modern-Abstractions/static/js/2.c12fda40.chunk.js",
+    "Modern-Abstractions/static/css/main.c2cef99b.chunk.css",
+    "Modern-Abstractions/static/js/main.b8a1adbe.chunk.js"
   ]
 }
