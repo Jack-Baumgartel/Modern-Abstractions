@@ -270,7 +270,7 @@ function App() {
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  (+ A Small Gas Fee)
+                  (+ Gas Fees)
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
