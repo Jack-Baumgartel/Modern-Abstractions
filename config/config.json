@@ -1,9 +1,9 @@
 {
-  "CONTRACT_ADDRESS": "0x39a0963C13f1908c2e3a5999B118ff3d9BdC7CE2",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x39a0963C13f1908c2e3a5999B118ff3d9BdC7CE2",
+  "CONTRACT_ADDRESS": "0x440c9b723A2F2D415DEc4eC445E8b87A28b05684",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x440c9b723A2F2D415DEc4eC445E8b87A28b05684",
   "NETWORK": {
     "NAME": "Rinkeby",
-    "SYMBOL": "ETH",
+    "SYMBOL": "Rink-ETH",
     "ID": 4
   },
   "NFT_NAME": "Modern Abstractions",
