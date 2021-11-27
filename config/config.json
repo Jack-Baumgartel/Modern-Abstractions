@@ -2,17 +2,17 @@
   "CONTRACT_ADDRESS": "0x93AD112fC5872daB1E15Ae9E9258163DABf50c38",
   "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x93AD112fC5872daB1E15Ae9E9258163DABf50c38",
   "NETWORK": {
-    "NAME": "Rinkeby",
-    "SYMBOL": "Rink-ETH",
-    "ID": 4
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
   },
   "NFT_NAME": "Modern Abstractions",
   "SYMBOL": "MA",
   "MAX_SUPPLY": 5000,
-  "WEI_COST": 10000000000000000,
+  "WEI_COST": 1000000000000000,
   "DISPLAY_COST": 0.01,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/modern-abstractions",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/5000-modern-abstractions",
   "SHOW_BACKGROUND": true
 }
