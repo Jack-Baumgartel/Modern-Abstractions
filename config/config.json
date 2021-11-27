@@ -9,7 +9,7 @@
   "NFT_NAME": "ModernAbstractions",
   "SYMBOL": "MA",
   "MAX_SUPPLY": 5000,
-  "WEI_COST": 1000000000000000,
+  "WEI_COST": 100000000000000,
   "DISPLAY_COST": 0.01,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
